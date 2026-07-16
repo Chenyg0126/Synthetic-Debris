@@ -16,7 +16,7 @@ This repository provides the inference code and pre-trained model weights for th
 ## 🚀 Quick Start
 ```bash
 # Clone this repository
-git clone https://github.com/user1236/FBENet.git
+git clone https://github.com/Chenyg0126/FBENet.git
 cd FBENet
 
 # Install dependencies
