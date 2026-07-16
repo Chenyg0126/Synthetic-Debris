@@ -42,16 +42,6 @@ FBENet/
 The code in this repository is released under the **MIT License**.  
 The openly available part of the Synthetic-Debris dataset is released under the **CC BY-NC 4.0** license.
 
-## 📝 Citation
-If you find this work useful, please cite:
-```bibtex
-@article{your-paper-key,
-  title={FBENet: A Highway Road Debris Detection Network Based on Frequency-Aware Bidirectional Feature Fusion and Efficient Attention Enhancement},
-  author={...},
-  journal={Sensors},
-  year={2026}
-}
-```
 
 ## 📧 Contact
 For questions or issues, please contact: [406013576@163.com]
