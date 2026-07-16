@@ -10,8 +10,9 @@ This repository provides the inference code and pre-trained model weights for th
 - **Key Results**: 0.862 mAP@0.5, 0.811 F1-score on Synthetic-Debris
 
 ## 🗃️ Dataset Availability
-- **Openly available part (8,000+ images)**: We plan to release the majority of the Synthetic-Debris dataset on Zenodo under the CC BY-NC 4.0 license, pending final institutional approval. A persistent DOI will be provided upon publication. Should the planned Zenodo release be delayed or prevented by circumstances beyond our control, these data will be made available from the corresponding author upon reasonable request for research purposes.
-- **Restricted part (~3,000 images)**: These images were sourced from third-party data and cannot be redistributed. Documentation on data sources is available upon request.
+- **Openly available part (8,000+ images)**: This portion of the Synthetic-Debris dataset is released in this repository under the dataset/ directory. It is provided under the CC BY-NC 4.0 license, pending final institutional approval. Should access via GitHub be interrupted or this repository be taken down for reasons beyond our control, the data will also be made available from the corresponding author upon reasonable request for research purposes.
+- **Restricted part (~3,000 images)**: These images include corporate third-party assets that we are unable to redistribute. If needed, we can provide the source so that interested researchers may obtain them directly from the original providers.
+
 
 ## 🚀 Quick Start
 ```bash
